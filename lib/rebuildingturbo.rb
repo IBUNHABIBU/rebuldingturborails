@@ -1,5 +1,5 @@
 require "rebuildingturbo/version"
-require "rebuildingturbo/railtie"
+require "rebuildingturbo/engine"
 
 module Rebuildingturbo
   # Your code goes here...
